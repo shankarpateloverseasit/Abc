@@ -15,6 +15,7 @@ namespace WebApplicationTwoSum.Controllers
             c = a + b;
             ViewBag.sum = c;
             int d;
+            int h;
             int g;
             return View();
         }
